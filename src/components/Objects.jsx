@@ -40,6 +40,9 @@ export default function Objects() {
 
 
     // https://randomuser.me/api
+
+    // html returns
+
     return (
         <>
         <h1><b>User Details</b></h1>
